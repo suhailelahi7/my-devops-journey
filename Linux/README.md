@@ -1,7 +1,7 @@
 # 🐧 My Linux Learning Journey
 
-## 📌 Getting Started
-As someone new to Linux, I embarked on a journey to understand the fundamentals, navigate the command line, and configure my system effectively. This document captures what I learnt along the way and the key areas I focused on. 🚀
+## Getting Started
+As someone new to Linux, I embarked on a journey to understand the fundamentals, navigate the command line, and configure my system effectively. This document captures what I learnt along the way and the key areas I focused on.
 
 ---
 
