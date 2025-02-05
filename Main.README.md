@@ -97,7 +97,7 @@ Below is an example of how the repository will be structured. The layout may evo
 │           ├── prod/
 │           └── README.md
 │
-└── 📜 README.md
+└── 📜 Main.README.md
 ```
 
 ---
